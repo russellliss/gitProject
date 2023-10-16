@@ -1,3 +1,3 @@
 const a = "The quick brown fox jumped over the lazy dog"
-const b = () => {};
+const myFunc = () => {};
 const c = 50;
