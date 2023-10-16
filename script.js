@@ -1,2 +1,2 @@
-const a = "The quick brown fox jumped over the lazy dog"
+const a = 50;
 const b = () => {};
