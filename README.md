@@ -7,3 +7,6 @@
   - --soft: git reset --soft does the same as mixed, but leaves the files staged
   - --hard: git reset --hard, will remove commits till that point, no going back.  Changes deleted permanently
   
+- .gitignore
+  If you have previously ignored a file, and now want it tracked, you need to remove it from git's cache with:
+  git rm --cached <filename>
